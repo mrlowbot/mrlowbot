@@ -2,9 +2,9 @@
 
 ## Hey
 
-#### I am a studying .NET Developer.
+#### I am a .NET/Full-Stack Developer.
 
-#### My main interests are about cyber security and micro controllers. 
+#### My main interests are about cyber security, backend + frontend and VMs.
 #### My main way of programming is in:
 > C (C#) --> Java (C++) --> JS --> Python.
 
